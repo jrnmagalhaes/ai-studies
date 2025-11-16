@@ -9,7 +9,7 @@ const Login = () => {
     <div className="flex items-center justify-center min-h-screen">
       <Card className="w-full max-w-sm shadow-md">
         <CardHeader>
-          <CardTitle className="text-center text-2xl font-semibold">Login</CardTitle>
+          <CardTitle className="text-center text-2xl font-semibold">Login Page</CardTitle>
         </CardHeader>
         <CardContent className="space-y-4">
           <div>
